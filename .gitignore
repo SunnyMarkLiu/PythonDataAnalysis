@@ -94,3 +94,5 @@ ENV/
 .idea
 mb.csv
 data_pickle
+*.png
+*.jpg
