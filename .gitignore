@@ -92,3 +92,5 @@ ENV/
 
 # others
 .idea
+mb.csv
+data_pickle
